@@ -1,0 +1,8 @@
+temp/
+*.temp
+**/*.temp
+*.tmp
+**/*.tmp
+ignore/
+*.ig
+**/*ig
